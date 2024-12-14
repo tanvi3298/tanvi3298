@@ -29,23 +29,11 @@
 <a href="https://www.instagram.com/u_platonic/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/u_platonic/?hl=en" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="center">📊 GitHub Stats:</h3>
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-
-  <!-- First Card (Top Languages) -->
-  <div align="left" style="width: 300px; height: 330px; padding: 20px; border-radius: 15px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2), -10px -10px 20px rgba(255,255,255,0.5);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: 170px; object-fit: contain; border-radius: 10px;" />
-  </div>
-
-  <!-- Second Card (GitHub Stats) -->
-  <div align="center" style="width: 300px; height: 330px; padding: 20px; border-radius: 15px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2), -10px -10px 20px rgba(255,255,255,0.5);">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; height: 170px; object-fit: contain; border-radius: 10px;" />
-  </div>
-
-  <!-- Third Card (Streak Stats) -->
-  <div align="center" style="width: 300px; height: 330px; padding: 20px; border-radius: 15px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2), -10px -10px 20px rgba(255,255,255,0.5);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi3298&theme=radical" alt="GitHub Streak" style="width: 100%; height: 170px; object-fit: contain; border-radius: 10px;" />
-  </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi3298&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
