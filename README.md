@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/u_platonic/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/u_platonic/?hl=en" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
