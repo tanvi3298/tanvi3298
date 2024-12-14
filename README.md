@@ -30,10 +30,22 @@
 </p>
 
 <h3 align="center">📊 GitHub Statistics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi3298&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+
+  <!-- GitHub Stats Card -->
+  <div style="width: 330px; height: 380px; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2); background-color: #2c2f36; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 90%; height: 170px; object-fit: contain; border-radius: 10px;" />
+  </div>
+
+  <!-- GitHub Streak Card -->
+  <div style="width: 350px; height: 380px; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2); background-color: #2c2f36; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi3298&theme=radical" alt="GitHub Streak" style="width: 90%; height: 170px; object-fit: contain; border-radius: 10px;" />
+  </div>
+
+  <!-- Top Languages Card -->
+  <div style="width: 350px; height: 380px; padding: 20px; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0,0,0,0.2); background-color: #2c2f36; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 90%; height: 170px; object-fit: contain; border-radius: 10px;" />
+  </div>
+
 </div>
+
