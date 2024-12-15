@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/tanvi_chile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvi_chile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tanvi-chile-1707a2221//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvi-chile-1707a2221/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tanvichile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tanvichile" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tanvichile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tanvichile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/u_platonic/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/u_platonic/?hl=en" height="30" width="40" /></a>
 </p>
 
