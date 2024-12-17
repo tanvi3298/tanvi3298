@@ -32,17 +32,18 @@
 <h3 style="text-align: left;">📊 GitHub Statistics</h3>
 <div style="padding: 20px; background-color: #000000; border-radius: 15px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5); display: flex; gap: 20px; justify-content: center; align-items: center; width: 100%; max-width: 1080px;">
 
- <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi3298&theme=github_dark&hide_border=true" alt="GitHub Streak" style="width: 35%; max-width: 350px; height: auto; object-fit: contain;" />
-
-
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=github_dark" alt="GitHub Stats" style="width: 32%; max-width: 350px; height: auto; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvi3298&show_icons=true&theme=github_dark" 
+       alt="GitHub Stats" 
+       style="width: 40%; max-width: 350px; height: auto; object-fit: contain;" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="width: 25%; max-width: 350px; height: auto; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvi3298&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" 
+       alt="Top Languages" 
+       style="width: 40%; max-width: 350px; height: auto; object-fit: contain;" />
 
 </div>
+
 
 
 
