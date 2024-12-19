@@ -13,8 +13,8 @@
 ---
 
 ## 🌐 My Portfolio Website:
-Check out my live portfolio website here:  
-**[tanvi3298.github.io/tanvi3298](https://tanvi3298.github.io/tanvi3298/)**  
+Explore my professional journey, skills, and projects:  
+**🔗 [Visit My Portfolio](https://tanvi3298.github.io/tanvi3298/)**
 
 ## 💻 Tech Stack:  
 
