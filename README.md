@@ -15,6 +15,7 @@
 ## 🌐 My Portfolio Website:
 Explore my professional journey, skills, and projects:  
 **🔗 [Visit My Portfolio](https://tanvi3298.github.io/tanvi3298/)**
+**🔗 [Visit My Devfolio](https://devfolio.co/@u_platonic)**
 
 ## 💻 Tech Stack:  
 
